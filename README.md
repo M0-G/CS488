@@ -1,1 +1,1 @@
-# CS488
+# DEMO NOTEBOOK
