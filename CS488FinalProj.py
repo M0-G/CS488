@@ -1,4 +1,5 @@
-
+# Reads train/test split data, makes Exploratory Data analysis plots, ranks features
+# selects the best ones and runs PCA.
 import os
 import matplotlib
 import numpy as np
